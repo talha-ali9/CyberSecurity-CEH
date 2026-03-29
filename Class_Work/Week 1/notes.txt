@@ -1,0 +1,4 @@
+In this week we learned how to setup different lab enivironments for our practical labs 
+we installed kali in VM and docker 
+we installed Xampp annd DVWA servers 
+we installed Metasploit 2
